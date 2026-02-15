@@ -1,0 +1,4 @@
+name,password,email,failed_login_attemps,logged_in,role
+Sandrine,zakou,bidon@laposte.net,0,False,utilisateur
+utilisateur,MDP,adresse@mail.com,0,False,utilisateur
+root,root,root@gmail.com,0,False,administrateur
